@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React and NodeJS**
 
-- 📫 How to reach me **vlaconory@gmail.com**
+- 📫 How to reach me **vlaconory@gmail.com**  **Telegram: @kknuyy**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
