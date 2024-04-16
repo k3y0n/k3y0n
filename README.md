@@ -84,10 +84,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k3y0n&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# RoadMaps
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6570ca155145316d25c90a1f?variant=dark)](https://roadmap.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=k3y0n&icon=0&color=12)](https://visitcount.itsvg.in)
